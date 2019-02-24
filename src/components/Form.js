@@ -23,6 +23,11 @@ export class Form extends Component {
         this.props.tracker(value);
     }
 
+    onSub = e => {
+      console.log("prevented default");
+      e.preventDefault();
+    }
+
   render() {
 
     // attach tracker function to the onchange of input
@@ -33,7 +38,7 @@ export class Form extends Component {
     }
     return (
       <div>
-        <form>
+        <form onSubmit={this.onSub}>
             <label>Search </label><input style = {charm}  name="name" onChange={this.formTracker} value={this.state.name} ></input>
         </form>
       </div>
