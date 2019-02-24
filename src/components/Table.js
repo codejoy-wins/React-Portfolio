@@ -4,9 +4,9 @@ export class Table extends Component {
     
   render() {
 
-    const { info } = this.props;
+    const { info,xfactor } = this.props;
     const tbod = info.map((thing,spot)=>
-    <tr>
+    <tr key={spot}>
     <td><a href={thing.lynk}>{thing.name}</a> </td>
     <td>{thing.desc}</td>
     </tr>
@@ -23,7 +23,7 @@ export class Table extends Component {
     return (
       <div style={myStyle}>
         <h2>Recent React Projects</h2>
-        <table>{thead}{tbod}</table>
+        <table>{thead}<tbody>{tbod}</tbody></table>
       </div>
     )
   }

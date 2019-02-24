@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import About from './components/AboutMe';
 import Table from './components/Table';
+import Form from './components/Form';
 import './App.css';
 
 
@@ -25,12 +26,24 @@ class App extends Component {
             "desc": "React image gallery",
         },
     ],
+    searchTerm: '',
 }
+
+// tracker
+
+appTracker = term =>{
+  console.log("chilling in app.js");
+  this.setState({
+    searchTerm: term,
+  })
+}
+
   render() {
     return (
       <div className="App">
         < About />
-        < Table info={this.state.projects}/>
+        < Form tracker={this.appTracker} />
+        < Table xfactor={this.state.searchTerm} info={this.state.projects}/>
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
