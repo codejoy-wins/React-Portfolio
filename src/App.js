@@ -110,7 +110,7 @@ exhaust = ()=>{
   this.setState({
     charged: false,
     charging: false,
-    speed: 13,
+    speed: 0,
   })
 }
 
@@ -159,6 +159,13 @@ appTracker = term =>{
       "height": "40vmin",
       "pointerEvents": "none",
     }
+
+    const kill = {
+      "padding":"10px",
+      "background": "skyblue",
+      "opacity": .5,
+      "color": "red",
+    }
     const MyLogo = ()=> {
       return (
         <svg style={Anime} xmlns="http://www.w3.org/2000/svg" viewBox="0 0 841.9 595.3">
@@ -182,7 +189,7 @@ appTracker = term =>{
           <div onMouseDown={this.charger} onMouseUp={this.ender}>
             < MyLogo />
           </div>
-          <div onClick={()=>this.exhaust()}>Enough!</div>
+          <div style={kill} onClick={()=>this.exhaust()}>Stabilizer</div>
           <p>
             Fidget spinner for your phone?
           </p>
