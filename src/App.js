@@ -35,6 +35,11 @@ class App extends Component {
           "lynk": "https://distracted-saha-afe3a3.netlify.com/",
           "desc": "React forms for practice",
         },
+        {
+          "name": "react tutorial",
+          "lynk": "https://goofy-snyder-724a97.netlify.com/",
+          "desc": "Traversy Media Youtube Tutorial",
+        }
     ],
     permaProjects: [
       {
@@ -62,6 +67,11 @@ class App extends Component {
         "lynk": "https://distracted-saha-afe3a3.netlify.com/",
         "desc": "React forms for practice",
       },
+      {
+        "name": "react tutorial",
+        "lynk": "https://goofy-snyder-724a97.netlify.com/",
+        "desc": "Traversy Media Youtube Tutorial",
+      }
   ],
     searchTerm: '',
 }
@@ -82,8 +92,8 @@ appTracker = term =>{
   }else{
     this.setState({
       projects: this.state.projects.filter((proj, spot) => {
-        let boo = proj.name.includes(term);
-        let foo = proj.desc.includes(term);
+        let boo = proj.name.toLowerCase().includes(term.toLowerCase());
+        let foo = proj.desc.toLowerCase().includes(term.toLowerCase());
         return (boo || foo);
       })
     })
