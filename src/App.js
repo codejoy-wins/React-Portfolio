@@ -25,13 +25,22 @@ class App extends Component {
             "lynk": "https://dazzling-keller-4338a6.netlify.com/?fooled",
             "desc": "React image gallery",
         },
+        {
+          "name": "react table",
+          "lynk": "https://eager-bhaskara-18e28d.netlify.com/",
+          "desc": "React table for practice",
+        },
+        {
+          "name": "react forms",
+          "lynk": "https://distracted-saha-afe3a3.netlify.com/",
+          "desc": "React forms for practice",
+        },
     ],
     permaProjects: [
       {
           "name": "react colors",
           "lynk": "https://kind-babbage-529f5c.netlify.com/",
           "desc": "React color manipulation",
-
       },
       {
           "name": "react speed",
@@ -42,6 +51,16 @@ class App extends Component {
           "name": "react gallery",
           "lynk": "https://dazzling-keller-4338a6.netlify.com/?fooled",
           "desc": "React image gallery",
+      },
+      {
+        "name": "react table",
+        "lynk": "https://eager-bhaskara-18e28d.netlify.com/",
+        "desc": "React table for practice",
+      },
+      {
+        "name": "react forms",
+        "lynk": "https://distracted-saha-afe3a3.netlify.com/",
+        "desc": "React forms for practice",
       },
   ],
     searchTerm: '',
