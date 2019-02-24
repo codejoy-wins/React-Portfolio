@@ -73,9 +73,15 @@ appTracker = term =>{
 }
 
   render() {
+    const xp = {
+      "padding":"1rem",
+    }
     return (
       <div className="App">
+        <div style={xp}>
         < Heading />
+
+        </div>
         < Form tracker={this.appTracker} />
         < Table magicTerm={this.state.searchTerm} info={this.state.projects}/>
         <header className="App-header">
