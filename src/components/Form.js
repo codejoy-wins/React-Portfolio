@@ -26,11 +26,15 @@ export class Form extends Component {
   render() {
 
     // attach tracker function to the onchange of input
+
+    const charm = {
+        "background":"royalblue",
+        "opacity":".4",
+    }
     return (
       <div>
         <form>
-            <label>Search by Name: </label><input name="name" onChange={this.formTracker} ></input>
-            <label>Search by Description: </label><input name="desc" onChange={this.formTracker} ></input>
+            <label>Search </label><input style = {charm}  name="name" onChange={this.formTracker} value={this.state.name} ></input>
         </form>
       </div>
     )

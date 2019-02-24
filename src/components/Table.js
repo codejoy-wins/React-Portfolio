@@ -4,13 +4,16 @@ export class Table extends Component {
     
   render() {
 
-    const { info,xfactor } = this.props;
+    const { info, magicTerm } = this.props;
+    console.log(`magic term from app.js is ${magicTerm}`);
     const tbod = info.map((thing,spot)=>
     <tr key={spot}>
     <td><a href={thing.lynk}>{thing.name}</a> </td>
     <td>{thing.desc}</td>
     </tr>
     );
+
+
     const thead = 
     <tr>
     <th>name</th>
@@ -23,7 +26,7 @@ export class Table extends Component {
     return (
       <div style={myStyle}>
         <h2>Recent React Projects</h2>
-        <table>{thead}<tbody>{tbod}</tbody></table>
+        <table><tbody>{thead}{tbod}</tbody></table>
       </div>
     )
   }
