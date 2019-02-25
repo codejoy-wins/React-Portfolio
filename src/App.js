@@ -9,7 +9,7 @@ class App extends Component {
   state = {
     display: {
       "color": "white",
-      "background": "black",
+      "background": "#282c34",
       "margin": "0 auto",
       "padding": "1vw",
       "fontSize": "2.5vw",
