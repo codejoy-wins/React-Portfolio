@@ -177,7 +177,7 @@ class App extends Component {
 
 ender = ()=>{
   console.log("ender function on mouse up");
-  const colors = ["orchid","mediumorchid","lightyellow","orange", "gold", "black", "deeppink", "silver"];
+  const colors = ["orchid","mediumorchid","lightyellow","orange", "gold", "purple", "deeppink", "silver"];
 
   setTimeout(()=>{ console.log("ender func"); this.setState({
     charged:true,
