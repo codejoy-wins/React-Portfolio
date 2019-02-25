@@ -10,6 +10,7 @@ export class Table extends Component {
     <tr key={spot}>
     <td><a href={thing.lynk}>{thing.name}</a> </td>
     <td>{thing.desc}</td>
+    <td>{thing.tech}</td>
     </tr>
     );
 
@@ -18,6 +19,8 @@ export class Table extends Component {
     <tr>
     <th>name</th>
     <th>description</th>
+    <th>technologies</th>
+
     </tr>;
     const myStyle = {
         "textAlign":"left",

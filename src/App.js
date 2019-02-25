@@ -12,32 +12,55 @@ class App extends Component {
             "name": "react colors",
             "lynk": "https://kind-babbage-529f5c.netlify.com/",
             "desc": "React color manipulation",
+            "tech": "React, HTML, CSS, JS, VS Code",
 
         },
         {
             "name": "react speed",
             "lynk": "https://admiring-allen-88af04.netlify.com/",
             "desc": "React speed manipulation",
+            "tech": "React, HTML, CSS, JS, VS Code",
+
         },
         {
             "name": "react gallery",
             "lynk": "https://dazzling-keller-4338a6.netlify.com/?fooled",
             "desc": "React image gallery",
+            "tech": "React, HTML, CSS, JS, VS Code",
+
         },
         {
           "name": "react table",
           "lynk": "https://eager-bhaskara-18e28d.netlify.com/",
           "desc": "React table for practice",
+          "tech": "React, HTML, CSS, JS, VS Code",
+
         },
         {
           "name": "react forms",
           "lynk": "https://distracted-saha-afe3a3.netlify.com/",
           "desc": "React forms for practice",
+          "tech": "React, HTML, CSS, JS, VS Code",
+
         },
         {
           "name": "react tutorial",
           "lynk": "https://goofy-snyder-724a97.netlify.com/",
           "desc": "Traversy Media Youtube Tutorial",
+          "tech": "React, HTML, CSS, JS, VS Code",
+          
+        },
+        {
+          "name": "game browser",
+          "lynk": "https://cocky-leavitt-f7e993.netlify.com/",
+          "desc": "All my Unity Games playable in one place",
+          "tech": "HTML, JS, CSS",
+        },
+        {
+          "name": "main portfolio",
+          "lynk": "https://codejoy-wins.github.io/",
+          "desc": "Edited a template for mobile-first responsive design",
+          "tech": "Bootstrap Greyscale Template, HTML, CSS, JS",
         }
     ],
     permaProjects: [
@@ -45,31 +68,55 @@ class App extends Component {
           "name": "react colors",
           "lynk": "https://kind-babbage-529f5c.netlify.com/",
           "desc": "React color manipulation",
+          "tech": "React, HTML, CSS, JS, VS Code",
+
       },
       {
           "name": "react speed",
           "lynk": "https://admiring-allen-88af04.netlify.com/",
           "desc": "React speed manipulation",
+          "tech": "React, HTML, CSS, JS, VS Code",
+
       },
       {
           "name": "react gallery",
           "lynk": "https://dazzling-keller-4338a6.netlify.com/?fooled",
           "desc": "React image gallery",
+          "tech": "React, HTML, CSS, JS, VS Code",
+
       },
       {
         "name": "react table",
         "lynk": "https://eager-bhaskara-18e28d.netlify.com/",
         "desc": "React table for practice",
+        "tech": "React, HTML, CSS, JS, VS Code",
+
       },
       {
         "name": "react forms",
         "lynk": "https://distracted-saha-afe3a3.netlify.com/",
         "desc": "React forms for practice",
+        "tech": "React, HTML, CSS, JS, VS Code",
+
       },
       {
         "name": "react tutorial",
         "lynk": "https://goofy-snyder-724a97.netlify.com/",
         "desc": "Traversy Media Youtube Tutorial",
+        "tech": "React, HTML, CSS, JS, VS Code",
+        
+      },
+      {
+        "name": "game browser",
+        "lynk": "https://cocky-leavitt-f7e993.netlify.com/",
+        "desc": "All my Unity Games playable in one place",
+        "tech": "HTML, JS, CSS",
+      },
+      {
+        "name": "main portfolio",
+        "lynk": "https://codejoy-wins.github.io/",
+        "desc": "Edited a template for mobile-first responsive design",
+        "tech": "Bootstrap Greyscale Template, HTML, CSS, JS",
       }
   ],
     searchTerm: '',
@@ -132,7 +179,8 @@ appTracker = term =>{
       projects: this.state.projects.filter((proj, spot) => {
         let boo = proj.name.toLowerCase().includes(term.toLowerCase());
         let foo = proj.desc.toLowerCase().includes(term.toLowerCase());
-        return (boo || foo);
+        let roo = proj.tech.toLowerCase().includes(term.toLowerCase());
+        return (boo || foo || roo);
       })
     })
   }
