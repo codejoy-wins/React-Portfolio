@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import Table from './components/Table';
 import Form from './components/Form';
 import Heading from './components/Heading';
-import Me from './components/Xp';
 import './App.css';
 
 //#282c34
