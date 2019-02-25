@@ -174,7 +174,7 @@ class App extends Component {
 
 ender = ()=>{
   console.log("ender function on mouse up");
-  const colors = ["orange", "gold", "black", "deeppink", "silver"];
+  const colors = ["orchid","mediumorchid","lightyellow","orange", "gold", "black", "deeppink", "silver"];
 
   setTimeout(()=>{ console.log("ender func"); this.setState({
     charged:true,
@@ -186,10 +186,10 @@ ender = ()=>{
 charger = ()=>{
   console.log("charger function");
   console.log(`current charging bool is ${this.state.charging}`);
-  const colors = ["blue", "aliceblue", "red", "green", "maroon"];
+  const colors = ["darkmagenta","lawngreen","blue", "aliceblue", "red", "green", "maroon"];
   this.setState({
     charging: true,
-    speed: 5 * Math.random(0,1),
+    speed: 4 * Math.random(0,1),
     color: colors[Math.floor(Math.random(0,1)*colors.length)],
   })
 }
@@ -292,7 +292,7 @@ appTracker = term =>{
             rel="noopener noreferrer"
           >
             Jann Software
-          </a> version 2
+          </a> version 3
         </header>
       </div>
     );
