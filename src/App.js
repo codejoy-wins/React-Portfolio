@@ -258,7 +258,7 @@ appTracker = term =>{
         < Form tracker={this.appTracker} />
         < Table magicTerm={this.state.searchTerm} info={this.state.projects}/>
         <header className="App-header">
-          <div onMouseDown={this.charger} onMouseUp={this.ender}>
+          <div onClick={()=>this.charger}  onMouseDown={this.charger} onMouseUp={this.ender}>
             < MyLogo />
           </div>
           <div style={kill} onClick={()=>this.exhaust()}>Stabilizer</div>
