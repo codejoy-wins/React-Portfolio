@@ -73,7 +73,13 @@ class App extends Component {
           "lynk": "http://codejoywins.pythonanywhere.com/",
           "desc": "Copywork of Mark Zuckerberg",
           "tech": "HTML, CSS, Python, Django, Pythonanywhere"
-        }
+        },
+        {
+          "name": "Old Portfolio",
+          "lynk": "https://happy-mirzakhani-505c0a.netlify.com/",
+          "desc": "Old portfolio",
+          "tech": "JS, HTML, CSS, Github Pages",
+        },
     ],
     permaProjects: [
       {
@@ -141,7 +147,13 @@ class App extends Component {
         "lynk": "http://codejoywins.pythonanywhere.com/",
         "desc": "Copywork of Mark Zuckerberg",
         "tech": "HTML, CSS, Python, Django, Pythonanywhere"
-      }
+      },
+      {
+        "name": "Old Portfolio",
+        "lynk": "https://happy-mirzakhani-505c0a.netlify.com/",
+        "desc": "Old portfolio",
+        "tech": "JS, HTML, CSS, Github Pages",
+      },
   ],
     searchTerm: '',
     speed: 5,
