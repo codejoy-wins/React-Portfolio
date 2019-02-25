@@ -54,13 +54,25 @@ class App extends Component {
           "name": "game browser",
           "lynk": "https://cocky-leavitt-f7e993.netlify.com/",
           "desc": "All my Unity Games playable in one place",
-          "tech": "HTML, JS, CSS",
+          "tech": "HTML, JS, CSS, C#, Unity, Blender",
         },
         {
           "name": "main portfolio",
           "lynk": "https://codejoy-wins.github.io/",
           "desc": "Edited a template for mobile-first responsive design",
           "tech": "Bootstrap Greyscale Template, HTML, CSS, JS",
+        },
+        {
+          "name": "Westlake Fantasy Football",
+          "lynk": "http://18.222.207.191/",
+          "desc": "Fullstack Development with Python/Django/AWS",
+          "tech": "Django, Python, AWS, HTML, CSS",
+        },
+        {
+          "name": "Fakebook",
+          "lynk": "http://codejoywins.pythonanywhere.com/",
+          "desc": "Copywork of Mark Zuckerberg",
+          "tech": "HTML, CSS, Python, Django, Pythonanywhere"
         }
     ],
     permaProjects: [
@@ -110,13 +122,25 @@ class App extends Component {
         "name": "game browser",
         "lynk": "https://cocky-leavitt-f7e993.netlify.com/",
         "desc": "All my Unity Games playable in one place",
-        "tech": "HTML, JS, CSS",
+        "tech": "HTML, JS, CSS, Unity, C#, Blender",
       },
       {
         "name": "main portfolio",
         "lynk": "https://codejoy-wins.github.io/",
         "desc": "Edited a template for mobile-first responsive design",
         "tech": "Bootstrap Greyscale Template, HTML, CSS, JS",
+      },
+      {
+        "name": "Westlake Fantasy Football",
+        "lynk": "http://18.222.207.191/",
+        "desc": "Fullstack Development with Python/Django/AWS",
+        "tech": "Django, Python, AWS, HTML, CSS",
+      },
+      {
+        "name": "Fakebook",
+        "lynk": "http://codejoywins.pythonanywhere.com/",
+        "desc": "Copywork of Mark Zuckerberg",
+        "tech": "HTML, CSS, Python, Django, Pythonanywhere"
       }
   ],
     searchTerm: '',
