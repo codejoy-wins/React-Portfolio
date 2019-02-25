@@ -4,9 +4,13 @@ import Form from './components/Form';
 import Heading from './components/Heading';
 import './App.css';
 
-
+//#282c34
 class App extends Component {
   state = {
+    display: {
+      "color": "white",
+      "background": "black",
+    }, 
     projects: [
         {
             "name": "react colors",
@@ -157,7 +161,7 @@ class App extends Component {
   ],
     searchTerm: '',
     speed: 5,
-    color: "coral",
+    color: "firebrick",
     charging: false,
     charged: false,
 }
@@ -165,6 +169,8 @@ class App extends Component {
 // rainbow
 
 // charger
+
+// background color change
 
 ender = ()=>{
   console.log("ender function on mouse up");
@@ -268,7 +274,9 @@ appTracker = term =>{
 
         </div>
         < Form tracker={this.appTracker} />
+        <div style={this.state.display}>
         < Table magicTerm={this.state.searchTerm} info={this.state.projects}/>
+        </div>
         <header className="App-header">
           <div onClick={()=>this.charger}  onMouseDown={this.charger} onMouseUp={this.ender}>
             < MyLogo />

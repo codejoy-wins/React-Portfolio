@@ -26,9 +26,12 @@ export class Table extends Component {
         "textAlign":"left",
         "padding":"2rem",
     }
+    const xxp = {
+      "color":"lightsteelblue",
+    }
     return (
       <div style={myStyle}>
-        <h2>Recent React Projects</h2>
+        <h2 style={xxp}>Jann Software</h2>
         <table><tbody>{thead}{tbod}</tbody></table>
       </div>
     )

@@ -13,7 +13,7 @@ export class Heading extends Component {
 
     boogieTime = ()=>{
         this.setState({
-            boogie:true,
+            boogie:!this.state.boogie,
         })
     }
   render() {
@@ -21,7 +21,7 @@ export class Heading extends Component {
       if(boogie){
           return (
               <div>
-                  < About />
+                  < About magic={this.boogieTime}/>
               </div>
           )
       }
