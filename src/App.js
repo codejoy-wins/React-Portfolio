@@ -294,7 +294,7 @@ appTracker = term =>{
             rel="noopener noreferrer"
           >
             Jann Software
-          </a> version 5
+          </a> version 6
         </header>
       </div>
     );
