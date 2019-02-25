@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Table from './components/Table';
 import Form from './components/Form';
 import Heading from './components/Heading';
+import Me from './components/Xp';
 import './App.css';
 
 //#282c34
@@ -10,6 +11,9 @@ class App extends Component {
     display: {
       "color": "white",
       "background": "black",
+      "margin": "0 auto",
+      "padding":"10px",
+      "fontSize": "1.7vw",
     }, 
     projects: [
         {
@@ -271,7 +275,6 @@ appTracker = term =>{
       <div className="App">
         <div style={xp}>
         < Heading />
-
         </div>
         < Form tracker={this.appTracker} />
         <div style={this.state.display}>
