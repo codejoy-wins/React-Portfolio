@@ -11,8 +11,8 @@ class App extends Component {
       "color": "white",
       "background": "black",
       "margin": "0 auto",
-      "padding":"10px",
-      "fontSize": "1.7vw",
+      "padding": "1vw",
+      "fontSize": "2.5vw",
     }, 
     projects: [
         {
@@ -294,7 +294,7 @@ appTracker = term =>{
             rel="noopener noreferrer"
           >
             Jann Software
-          </a> version 4
+          </a> version 5
         </header>
       </div>
     );
