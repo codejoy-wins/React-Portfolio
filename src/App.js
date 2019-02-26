@@ -323,7 +323,7 @@ appTracker = term =>{
           </p>
           <a
             className="App-link"
-            href="https://www.linkedin.com/in/maxjann/"
+            href="https://github.com/codejoy-wins"
             target="_blank"
             rel="noopener noreferrer"
           >
