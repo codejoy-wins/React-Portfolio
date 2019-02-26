@@ -323,12 +323,12 @@ appTracker = term =>{
           </p>
           <a
             className="App-link"
-            href="https://maxjann.com"
+            href="https://www.linkedin.com/in/maxjann/"
             target="_blank"
             rel="noopener noreferrer"
           >
             Jann Software
-          </a> version 7
+          </a> maxwellljann@gmail.com
         </header>
       </div>
     );
