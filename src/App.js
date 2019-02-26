@@ -87,6 +87,24 @@ class App extends Component {
           "desc": "Old portfolio",
           "tech": "JS, HTML, CSS, Github Pages",
         },
+        {
+          "name": "DBZ2",
+          "lynk": "https://keen-pare-61d7ca.netlify.com/",
+          "desc": "OOP battle game with sound",
+          "tech": "JS, HTML, CSS, Netlify"
+        },
+        {
+          "name": "todo list tutorial",
+          "lynk": "https://hardcore-kowalevski-0d0795.netlify.com/",
+          "desc": "Youtube React tutorial todo list",
+          "tech": "React, JS, HTML, CSS, Netlify"
+        },
+        {
+          "name": "DJ Alien",
+          "lynk": "https://pensive-lumiere-228b4a.netlify.com/",
+          "desc": "Random song player of limited db",
+          "tech": "JS, HTML, CSS, Netlify"
+        },
     ],
     permaProjects: [
       {
@@ -161,10 +179,28 @@ class App extends Component {
         "desc": "Old portfolio",
         "tech": "JS, HTML, CSS, Github Pages",
       },
+      {
+        "name": "DBZ2",
+        "lynk": "https://keen-pare-61d7ca.netlify.com/",
+        "desc": "OOP battle game with sound",
+        "tech": "JS, HTML, CSS, Netlify"
+      },
+      {
+        "name": "todo list tutorial",
+        "lynk": "https://hardcore-kowalevski-0d0795.netlify.com/",
+        "desc": "Youtube React tutorial todo list",
+        "tech": "React, JS, HTML, CSS, Netlify"
+      },
+      {
+        "name": "DJ Alien",
+        "lynk": "https://pensive-lumiere-228b4a.netlify.com/",
+        "desc": "Random song player of limited db",
+        "tech": "JS, HTML, CSS, Netlify"
+      },
   ],
     searchTerm: '',
     speed: 5,
-    color: "firebrick",
+    color: "goldenrod",
     charging: false,
     charged: false,
 }
@@ -243,8 +279,6 @@ appTracker = term =>{
     //   pointer-events: none;
     // }
 
-    
-
     const { color, speed } = this.state;
 
     const Anime = {
@@ -294,7 +328,7 @@ appTracker = term =>{
             rel="noopener noreferrer"
           >
             Jann Software
-          </a> version 6
+          </a> version 7
         </header>
       </div>
     );
