@@ -16,6 +16,12 @@ class App extends Component {
     }, 
     projects: [
         {
+          "name": "React Tac Toe",
+          "lynk": "https://quizzical-wozniak-503971.netlify.com/",
+          "desc": "Tic Tac Toe Game with Cat Gif",
+          "tech": "React, JS, HTML, CSS, Netlify"
+        },
+        {
             "name": "react colors",
             "lynk": "https://kind-babbage-529f5c.netlify.com/",
             "desc": "React color manipulation",
@@ -105,8 +111,15 @@ class App extends Component {
           "desc": "Random song player of limited db",
           "tech": "JS, HTML, CSS, Netlify"
         },
+        
     ],
     permaProjects: [
+      {
+        "name": "React Tac Toe",
+        "lynk": "https://quizzical-wozniak-503971.netlify.com/",
+        "desc": "Tic Tac Toe Game with Cat Gif",
+        "tech": "React, JS, HTML, CSS, Netlify"
+      },
       {
           "name": "react colors",
           "lynk": "https://kind-babbage-529f5c.netlify.com/",
