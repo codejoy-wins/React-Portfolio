@@ -345,7 +345,7 @@ appTracker = term =>{
           </div>
           <div style={kill} onClick={()=>this.exhaust()}>Stabilizer</div>
           <p>
-            Fidget spinner for your phone?
+            <a href="https://docs.google.com/document/d/1jD5PJxBGta0Rg98w-c5o0L7vDuFHw_NmLcrWomRK5XQ/edit?usp=sharing">View My Resume</a>
           </p>
           <a
             className="App-link"
