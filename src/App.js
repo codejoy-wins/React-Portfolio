@@ -12,9 +12,15 @@ class App extends Component {
       "background": "#282c34",
       "margin": "0 auto",
       "padding": "1vw",
-      "fontSize": "2.5vw",
+      "fontSize": "2.24vw",
     }, 
     projects: [
+        {
+          "name": "React Hooks",
+          "lynk": "https://tender-shannon-7c069f.netlify.com/",
+          "desc": "React Hooks Todo List",
+          "tech": "JS, HTML, CSS, React, Hooks"
+        },
         {
           "name": "React Tac Toe",
           "lynk": "https://quizzical-wozniak-503971.netlify.com/",
@@ -111,9 +117,15 @@ class App extends Component {
           "desc": "Random song player of limited db",
           "tech": "JS, HTML, CSS, Netlify"
         },
-        
     ],
+    // https://tender-shannon-7c069f.netlify.com/
     permaProjects: [
+      {
+        "name": "React Hooks",
+        "lynk": "https://tender-shannon-7c069f.netlify.com/",
+        "desc": "React Hooks Todo List",
+        "tech": "JS, HTML, CSS, React, Hooks"
+      },
       {
         "name": "React Tac Toe",
         "lynk": "https://quizzical-wozniak-503971.netlify.com/",
@@ -210,6 +222,7 @@ class App extends Component {
         "desc": "Random song player of limited db",
         "tech": "JS, HTML, CSS, Netlify"
       },
+      
   ],
     searchTerm: '',
     speed: 5,
@@ -226,7 +239,7 @@ class App extends Component {
 
 ender = ()=>{
   console.log("ender function on mouse up");
-  const colors = ["orchid","mediumorchid","lightyellow","orange", "gold", "purple", "deeppink", "silver"];
+  const colors = ["mediumslateblue","ivory", "orchid","mediumorchid","lightyellow","orange", "gold", "purple", "deeppink", "silver"];
 
   setTimeout(()=>{ console.log("ender func"); this.setState({
     charged:true,
@@ -238,7 +251,7 @@ ender = ()=>{
 charger = ()=>{
   console.log("charger function");
   console.log(`current charging bool is ${this.state.charging}`);
-  const colors = ["darkmagenta","lawngreen","blue", "aliceblue", "red", "green", "maroon"];
+  const colors = ["mediumslateblue","mediumpurple","mediumorchid","darkmagenta","lawngreen","blue", "aliceblue", "red", "green", "maroon"];
   this.setState({
     charging: true,
     speed: 4 * Math.random(0,1),
