@@ -16,6 +16,12 @@ class App extends Component {
     }, 
     projects: [
         {
+          "name": "React Time",
+          "lynk": "https://objective-turing-d5177f.netlify.com/",
+          "desc": "Using Date objects and Hooks",
+          "tech": "React Hooks, JS, HTML, CSS, Netlify"
+        },
+        {
           "name": "React Hooks",
           "lynk": "https://tender-shannon-7c069f.netlify.com/",
           "desc": "React Hooks Todo List",
@@ -117,9 +123,16 @@ class App extends Component {
           "desc": "Random song player of limited db",
           "tech": "JS, HTML, CSS, Netlify"
         },
+        
     ],
     // https://tender-shannon-7c069f.netlify.com/
     permaProjects: [
+      {
+        "name": "React Time",
+        "lynk": "https://objective-turing-d5177f.netlify.com/",
+        "desc": "Using Date objects and Hooks",
+        "tech": "React Hooks, JS, HTML, CSS, Netlify"
+      },
       {
         "name": "React Hooks",
         "lynk": "https://tender-shannon-7c069f.netlify.com/",
