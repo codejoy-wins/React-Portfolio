@@ -3,7 +3,7 @@ import Table from './components/Table';
 import Form from './components/Form';
 import Heading from './components/Heading';
 import './App.css';
-
+// https://wizardly-wright-170b65.netlify.com/
 //#282c34
 class App extends Component {
   state = {
@@ -15,6 +15,12 @@ class App extends Component {
       "fontSize": "2.24vw",
     }, 
     projects: [
+        {
+          "name": "Actor Photo Reel",
+          "lynk": "https://wizardly-wright-170b65.netlify.com/",
+          "desc": "Ad for my actor friend, Daniel.",
+          "tech": "React Hooks, JS, HTML, CSS, Netlify, Github"
+        },
         {
           "name": "Advertisement",
           "lynk": "https://trusting-blackwell-950c36.netlify.com/?fbclid=IwAR3l242tKz2QPoRsEhuBcCN3CtyUeXVvd3x8XB6hDzKIf0KT9Dov1L8wQlA",
@@ -133,6 +139,12 @@ class App extends Component {
     ],
     // https://tender-shannon-7c069f.netlify.com/
     permaProjects: [
+      {
+        "name": "Actor Photo Reel",
+        "lynk": "https://wizardly-wright-170b65.netlify.com/",
+        "desc": "Ad for my actor friend, Daniel.",
+        "tech": "React Hooks, JS, HTML, CSS, Netlify, Github"
+      },
       {
         "name": "Advertisement",
         "lynk": "https://trusting-blackwell-950c36.netlify.com/?fbclid=IwAR3l242tKz2QPoRsEhuBcCN3CtyUeXVvd3x8XB6hDzKIf0KT9Dov1L8wQlA",
