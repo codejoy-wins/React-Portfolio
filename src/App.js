@@ -15,130 +15,12 @@ class App extends Component {
       "fontSize": "2.24vw",
     }, 
     projects: [
-        {
-          "name": "Actor Photo Reel",
-          "lynk": "https://wizardly-wright-170b65.netlify.com/",
-          "desc": "Ad for my actor friend, Daniel.",
-          "tech": "React Hooks, JS, HTML, CSS, Netlify, Github"
-        },
-        {
-          "name": "Advertisement",
-          "lynk": "https://trusting-blackwell-950c36.netlify.com/?fbclid=IwAR3l242tKz2QPoRsEhuBcCN3CtyUeXVvd3x8XB6hDzKIf0KT9Dov1L8wQlA",
-          "desc": "Ad for potential business.  Animation on custom image",
-          "tech": "React, JS, HTML, CSS, Netlify, Github"
-        },
-        {
-          "name": "React Time",
-          "lynk": "https://objective-turing-d5177f.netlify.com/",
-          "desc": "Using Date objects and Hooks",
-          "tech": "React Hooks, JS, HTML, CSS, Netlify"
-        },
-        {
-          "name": "React Hooks",
-          "lynk": "https://tender-shannon-7c069f.netlify.com/",
-          "desc": "React Hooks Todo List",
-          "tech": "JS, HTML, CSS, React, Hooks"
-        },
-        {
-          "name": "React Tac Toe",
-          "lynk": "https://quizzical-wozniak-503971.netlify.com/",
-          "desc": "Tic Tac Toe Game with Cat Gif",
-          "tech": "React, JS, HTML, CSS, Netlify"
-        },
-        {
-            "name": "react colors",
-            "lynk": "https://kind-babbage-529f5c.netlify.com/",
-            "desc": "React color manipulation",
-            "tech": "React, HTML, CSS, JS, VS Code",
-
-        },
-        {
-            "name": "react speed",
-            "lynk": "https://admiring-allen-88af04.netlify.com/",
-            "desc": "React speed manipulation",
-            "tech": "React, HTML, CSS, JS, VS Code",
-
-        },
-        {
-            "name": "react gallery",
-            "lynk": "https://dazzling-keller-4338a6.netlify.com/?fooled",
-            "desc": "React image gallery",
-            "tech": "React, HTML, CSS, JS, VS Code",
-
-        },
-        {
-          "name": "react table",
-          "lynk": "https://eager-bhaskara-18e28d.netlify.com/",
-          "desc": "React table for practice",
-          "tech": "React, HTML, CSS, JS, VS Code",
-
-        },
-        {
-          "name": "react forms",
-          "lynk": "https://distracted-saha-afe3a3.netlify.com/",
-          "desc": "React forms for practice",
-          "tech": "React, HTML, CSS, JS, VS Code",
-
-        },
-        {
-          "name": "react tutorial",
-          "lynk": "https://goofy-snyder-724a97.netlify.com/",
-          "desc": "Traversy Media Youtube Tutorial",
-          "tech": "React, HTML, CSS, JS, VS Code",
-          
-        },
-        {
-          "name": "game browser",
-          "lynk": "https://cocky-leavitt-f7e993.netlify.com/",
-          "desc": "All my Unity Games playable in one place",
-          "tech": "HTML, JS, CSS, C#, Unity, Blender",
-        },
-        {
-          "name": "main portfolio",
-          "lynk": "https://codejoy-wins.github.io/",
-          "desc": "Edited a template for mobile-first responsive design",
-          "tech": "Bootstrap Greyscale Template, HTML, CSS, JS",
-        },
-        {
-          "name": "Westlake Fantasy Football",
-          "lynk": "http://18.222.207.191/",
-          "desc": "Fullstack Development with Python/Django/AWS",
-          "tech": "Django, Python, AWS, HTML, CSS",
-        },
-        {
-          "name": "Fakebook",
-          "lynk": "http://codejoywins.pythonanywhere.com/",
-          "desc": "Copywork of Mark Zuckerberg",
-          "tech": "HTML, CSS, Python, Django, Pythonanywhere"
-        },
-        {
-          "name": "Old Portfolio",
-          "lynk": "https://happy-mirzakhani-505c0a.netlify.com/",
-          "desc": "Old portfolio",
-          "tech": "JS, HTML, CSS, Github Pages",
-        },
-        {
-          "name": "DBZ2",
-          "lynk": "https://keen-pare-61d7ca.netlify.com/",
-          "desc": "OOP battle game with sound",
-          "tech": "JS, HTML, CSS, Netlify"
-        },
-        {
-          "name": "todo list tutorial",
-          "lynk": "https://hardcore-kowalevski-0d0795.netlify.com/",
-          "desc": "Youtube React tutorial todo list",
-          "tech": "React, JS, HTML, CSS, Netlify"
-        },
-        {
-          "name": "DJ Alien",
-          "lynk": "https://pensive-lumiere-228b4a.netlify.com/",
-          "desc": "Random song player of limited db",
-          "tech": "JS, HTML, CSS, Netlify"
-        },
-        
-    ],
-    // https://tender-shannon-7c069f.netlify.com/
-    permaProjects: [
+      {
+        "name": "React Hooks",
+        "lynk": "https://tender-shannon-7c069f.netlify.com/",
+        "desc": "React Hooks Todo List",
+        "tech": "JS, HTML, CSS, React, Hooks"
+      },
       {
         "name": "Actor Photo Reel",
         "lynk": "https://wizardly-wright-170b65.netlify.com/",
@@ -158,10 +40,128 @@ class App extends Component {
         "tech": "React Hooks, JS, HTML, CSS, Netlify"
       },
       {
+        "name": "React Tac Toe",
+        "lynk": "https://quizzical-wozniak-503971.netlify.com/",
+        "desc": "Tic Tac Toe Game with Cat Gif",
+        "tech": "React, JS, HTML, CSS, Netlify"
+      },
+      {
+          "name": "react colors",
+          "lynk": "https://kind-babbage-529f5c.netlify.com/",
+          "desc": "React color manipulation",
+          "tech": "React, HTML, CSS, JS, VS Code",
+
+      },
+      {
+          "name": "react speed",
+          "lynk": "https://admiring-allen-88af04.netlify.com/",
+          "desc": "React speed manipulation",
+          "tech": "React, HTML, CSS, JS, VS Code",
+
+      },
+      {
+          "name": "react gallery",
+          "lynk": "https://dazzling-keller-4338a6.netlify.com/?fooled",
+          "desc": "React image gallery",
+          "tech": "React, HTML, CSS, JS, VS Code",
+
+      },
+      {
+        "name": "react table",
+        "lynk": "https://eager-bhaskara-18e28d.netlify.com/",
+        "desc": "React table for practice",
+        "tech": "React, HTML, CSS, JS, VS Code",
+
+      },
+      {
+        "name": "react forms",
+        "lynk": "https://distracted-saha-afe3a3.netlify.com/",
+        "desc": "React forms for practice",
+        "tech": "React, HTML, CSS, JS, VS Code",
+
+      },
+      {
+        "name": "react tutorial",
+        "lynk": "https://goofy-snyder-724a97.netlify.com/",
+        "desc": "Traversy Media Youtube Tutorial",
+        "tech": "React, HTML, CSS, JS, VS Code",
+        
+      },
+      {
+        "name": "game browser",
+        "lynk": "https://cocky-leavitt-f7e993.netlify.com/",
+        "desc": "All my Unity Games playable in one place",
+        "tech": "HTML, JS, CSS, C#, Unity, Blender",
+      },
+      {
+        "name": "main portfolio",
+        "lynk": "https://codejoy-wins.github.io/",
+        "desc": "Edited a template for mobile-first responsive design",
+        "tech": "Bootstrap Greyscale Template, HTML, CSS, JS",
+      },
+      {
+        "name": "Westlake Fantasy Football",
+        "lynk": "http://18.222.207.191/",
+        "desc": "Fullstack Development with Python/Django/AWS",
+        "tech": "Django, Python, AWS, HTML, CSS",
+      },
+      {
+        "name": "Fakebook",
+        "lynk": "http://codejoywins.pythonanywhere.com/",
+        "desc": "Copywork of Mark Zuckerberg",
+        "tech": "HTML, CSS, Python, Django, Pythonanywhere"
+      },
+      {
+        "name": "Old Portfolio",
+        "lynk": "https://happy-mirzakhani-505c0a.netlify.com/",
+        "desc": "Old portfolio",
+        "tech": "JS, HTML, CSS, Github Pages",
+      },
+      {
+        "name": "DBZ2",
+        "lynk": "https://keen-pare-61d7ca.netlify.com/",
+        "desc": "OOP battle game with sound",
+        "tech": "JS, HTML, CSS, Netlify"
+      },
+      {
+        "name": "todo list tutorial",
+        "lynk": "https://hardcore-kowalevski-0d0795.netlify.com/",
+        "desc": "Youtube React tutorial todo list",
+        "tech": "React, JS, HTML, CSS, Netlify"
+      },
+      {
+        "name": "DJ Alien",
+        "lynk": "https://pensive-lumiere-228b4a.netlify.com/",
+        "desc": "Random song player of limited db",
+        "tech": "JS, HTML, CSS, Netlify"
+      },
+        
+    ],
+    // https://tender-shannon-7c069f.netlify.com/
+    permaProjects: [
+      {
         "name": "React Hooks",
         "lynk": "https://tender-shannon-7c069f.netlify.com/",
         "desc": "React Hooks Todo List",
         "tech": "JS, HTML, CSS, React, Hooks"
+      },
+      {
+        "name": "Actor Photo Reel",
+        "lynk": "https://wizardly-wright-170b65.netlify.com/",
+        "desc": "Ad for my actor friend, Daniel.",
+        "tech": "React Hooks, JS, HTML, CSS, Netlify, Github"
+      },
+      {
+        "name": "Advertisement",
+        "lynk": "https://trusting-blackwell-950c36.netlify.com/?fbclid=IwAR3l242tKz2QPoRsEhuBcCN3CtyUeXVvd3x8XB6hDzKIf0KT9Dov1L8wQlA",
+        "desc": "Ad for potential business.  Animation on custom image",
+        "tech": "React, JS, HTML, CSS, Netlify, Github"
+      },
+      {
+        "name": "React Time",
+        "lynk": "https://objective-turing-d5177f.netlify.com/",
+        "desc": "Using Date objects and Hooks",
+        "tech": "React Hooks, JS, HTML, CSS, Netlify"
       },
       {
         "name": "React Tac Toe",
