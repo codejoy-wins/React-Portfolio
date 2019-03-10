@@ -135,7 +135,12 @@ class App extends Component {
         "desc": "Random song player of limited db",
         "tech": "JS, HTML, CSS, Netlify"
       },
-        
+      {
+        "name": "Redux Rotating Text",
+        "lynk": "https://cocky-colden-aa4cf6.netlify.com/?fbclid=IwAR35EcczVmhHFP17ViVv0TlKhhdKJjFDXPAXJ8FJgcS6gMN8ZxQd0_7bVy8",
+        "desc": "fun animation during tutorial",
+        "tech": "JS, React, Redux, CSS, Netlify, Github"
+      }
     ],
     // https://tender-shannon-7c069f.netlify.com/
     permaProjects: [
@@ -259,6 +264,13 @@ class App extends Component {
         "desc": "Random song player of limited db",
         "tech": "JS, HTML, CSS, Netlify"
       },
+      // https://cocky-colden-aa4cf6.netlify.com/?fbclid=IwAR35EcczVmhHFP17ViVv0TlKhhdKJjFDXPAXJ8FJgcS6gMN8ZxQd0_7bVy8
+      {
+        "name": "Redux Rotating Text",
+        "lynk": "https://cocky-colden-aa4cf6.netlify.com/?fbclid=IwAR35EcczVmhHFP17ViVv0TlKhhdKJjFDXPAXJ8FJgcS6gMN8ZxQd0_7bVy8",
+        "desc": "fun animation during tutorial",
+        "tech": "JS, React, Redux, CSS, Netlify, Github"
+      }
       
   ],
     searchTerm: '',
