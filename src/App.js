@@ -4,6 +4,7 @@ import Form from './components/Form';
 import Heading from './components/Heading';
 import './App.css';
 // https://wizardly-wright-170b65.netlify.com/
+// https://condescending-albattani-0a1334.netlify.com/
 //#282c34
 class App extends Component {
   state = {
@@ -19,6 +20,12 @@ class App extends Component {
         "name": "React Hooks",
         "lynk": "https://tender-shannon-7c069f.netlify.com/",
         "desc": "React Hooks Todo List",
+        "tech": "JS, HTML, CSS, React, Hooks"
+      },
+      {
+        "name": "Fantasy Shrine",
+        "lynk": "https://condescending-albattani-0a1334.netlify.com/",
+        "desc": "For the league champ",
         "tech": "JS, HTML, CSS, React, Hooks"
       },
       {
@@ -148,6 +155,12 @@ class App extends Component {
         "name": "React Hooks",
         "lynk": "https://tender-shannon-7c069f.netlify.com/",
         "desc": "React Hooks Todo List",
+        "tech": "JS, HTML, CSS, React, Hooks"
+      },
+      {
+        "name": "Fantasy Shrine",
+        "lynk": "https://condescending-albattani-0a1334.netlify.com/",
+        "desc": "For the league champ",
         "tech": "JS, HTML, CSS, React, Hooks"
       },
       {
