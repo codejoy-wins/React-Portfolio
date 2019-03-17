@@ -5,6 +5,7 @@ import Heading from './components/Heading';
 import './App.css';
 // https://wizardly-wright-170b65.netlify.com/
 // https://condescending-albattani-0a1334.netlify.com/
+// https://practical-saha-e8a1a8.netlify.com/
 //#282c34
 class App extends Component {
   state = {
@@ -23,10 +24,16 @@ class App extends Component {
         "tech": "JS, HTML, CSS, React, Hooks"
       },
       {
+        "name": "Personal Website",
+        "lynk": "https://practical-saha-e8a1a8.netlify.com/",
+        "desc": "For Justin Griffin",
+        "tech": "JS, HTML, CSS, React"
+      },
+      {
         "name": "Fantasy Shrine",
         "lynk": "https://condescending-albattani-0a1334.netlify.com/",
         "desc": "For the league champ",
-        "tech": "JS, HTML, CSS, React, Hooks"
+        "tech": "JS, HTML, CSS, React"
       },
       {
         "name": "Actor Photo Reel",
@@ -158,10 +165,16 @@ class App extends Component {
         "tech": "JS, HTML, CSS, React, Hooks"
       },
       {
+        "name": "Personal Website",
+        "lynk": "https://practical-saha-e8a1a8.netlify.com/",
+        "desc": "For Justin Griffin",
+        "tech": "JS, HTML, CSS, React"
+      },
+      {
         "name": "Fantasy Shrine",
         "lynk": "https://condescending-albattani-0a1334.netlify.com/",
         "desc": "For the league champ",
-        "tech": "JS, HTML, CSS, React, Hooks"
+        "tech": "JS, HTML, CSS, React"
       },
       {
         "name": "Actor Photo Reel",
