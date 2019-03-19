@@ -18,6 +18,12 @@ class App extends Component {
     }, 
     projects: [
       {
+        "name": "Blasphemy",
+        "lynk": "https://tender-shannon-7c069f.netlify.com/",
+        "desc": "To cheer you up",
+        "tech": "JS, HTML, CSS, React, Hooks, God"
+      },
+      {
         "name": "React Hooks",
         "lynk": "https://tender-shannon-7c069f.netlify.com/",
         "desc": "React Hooks Todo List",
@@ -157,7 +163,15 @@ class App extends Component {
       }
     ],
     // https://tender-shannon-7c069f.netlify.com/
+    // https://eloquent-meninsky-66f587.netlify.com/
+    // Drake song and it's alright (happy song)
     permaProjects: [
+      {
+        "name": "Blasphemy",
+        "lynk": "https://eloquent-meninsky-66f587.netlify.com/",
+        "desc": "To cheer you up",
+        "tech": "JS, HTML, CSS, React, Hooks, God"
+      },
       {
         "name": "React Hooks",
         "lynk": "https://tender-shannon-7c069f.netlify.com/",
