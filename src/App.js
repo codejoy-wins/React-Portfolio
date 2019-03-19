@@ -6,6 +6,7 @@ import './App.css';
 // https://wizardly-wright-170b65.netlify.com/
 // https://condescending-albattani-0a1334.netlify.com/
 // https://practical-saha-e8a1a8.netlify.com/
+// https://eloquent-meninsky-66f587.netlify.com/
 //#282c34
 class App extends Component {
   state = {
@@ -19,7 +20,7 @@ class App extends Component {
     projects: [
       {
         "name": "Blasphemy",
-        "lynk": "https://tender-shannon-7c069f.netlify.com/",
+        "lynk": "https://eloquent-meninsky-66f587.netlify.com/",
         "desc": "To cheer you up",
         "tech": "JS, HTML, CSS, React, Hooks, God"
       },
