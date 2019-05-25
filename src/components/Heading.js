@@ -27,7 +27,7 @@ export class Heading extends Component {
       }
     return (
       <div onClick={this.boogieTime}>
-        Click here to learn more about me
+        Click <span id="here">here</span> to learn more about me
       </div>
     )
   }
