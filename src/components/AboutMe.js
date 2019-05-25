@@ -24,7 +24,7 @@ export class AboutMe extends Component {
     return (
       <div>
         <h1 style={myHead}>About Me</h1>
-        <p>I'm a <a href="https://www.ucsc.edu/" style={override}>college</a> and <a href="https://www.codingdojo.com/" style={override2}>coding bootcamp</a> graduate, <a href="https://soundcloud.com/maxwelljann" style={override2}>singer-songwriter</a>, <a href="https://codejoy-wins.itch.io/" style={override2}>game designer </a>, and a chess player </p>
+        <p>I'm a <a href="https://www.ucsc.edu/" style={override}>college</a> and <a href="https://www.codingdojo.com/" style={override2}>coding bootcamp</a> graduate, <a href="https://soundcloud.com/maxwelljann" style={override2}>singer-songwriter</a>, <a href="https://codejoy-wins.itch.io/" style={override2}>game designer </a>, <a href="https://www.khanacademy.org/profile/maxjann/" style={override2}>mathematician</a>, philosopher and a chess player </p>
         <button onClick={()=>this.dostuff()}>collapse</button>
       </div>
     )
