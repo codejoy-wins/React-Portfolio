@@ -31,7 +31,7 @@ export class Heading extends Component {
         </div>
         <div onClick={this.boogieTime}>
         
-        Click <span id="here">here</span> to learn more about me
+        <span id="here">Click here</span> to learn more about me
         </div>
       </div>
      
