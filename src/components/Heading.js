@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import About from './AboutMe';
 
-
 export class Heading extends Component {
 
     constructor(props){
@@ -26,13 +25,16 @@ export class Heading extends Component {
           )
       }
     return (
-      <div>
-        <h1>Welcome to my website</h1>
+      <div id="nest">
+        <div id= "spacer">
+        
+        </div>
         <div onClick={this.boogieTime}>
+        
         Click <span id="here">here</span> to learn more about me
         </div>
       </div>
-      
+     
     )
   }
 }

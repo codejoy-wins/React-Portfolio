@@ -35,3 +35,13 @@
     transform: rotate(360deg);
   }
 }
+
+#nest {
+  background-image: url("https://i1.sndcdn.com/avatars-000430407180-m3mviw-t500x500.jpg");
+  background-repeat: no-repeat;
+  padding: 10rem;
+}
+#spacer{
+  color: rgba(19, 2, 2, 0.459);
+  height: 10rem;
+}
