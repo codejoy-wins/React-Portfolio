@@ -177,7 +177,7 @@ class App extends Component {
         "name": "Twelve Articles",
         "lynk": "https://clever-rosalind-14684b.netlify.com/",
         "desc": "My LinkedIn Articles",
-        "tech": "React"
+        "tech": "React, God"
       },
       {
         "name": "Blasphemy",
