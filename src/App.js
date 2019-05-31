@@ -19,6 +19,12 @@ class App extends Component {
     }, 
     projects: [
       {
+        "name": "Twelve Articles",
+        "lynk": "https://clever-rosalind-14684b.netlify.com/",
+        "desc": "My LinkedIn Articles",
+        "tech": "React"
+      },
+      {
         "name": "Blasphemy",
         "lynk": "https://eloquent-meninsky-66f587.netlify.com/",
         "desc": "To cheer you up",
@@ -167,6 +173,12 @@ class App extends Component {
     // https://eloquent-meninsky-66f587.netlify.com/
     // Drake song and it's alright (happy song)
     permaProjects: [
+      {
+        "name": "Twelve Articles",
+        "lynk": "https://clever-rosalind-14684b.netlify.com/",
+        "desc": "My LinkedIn Articles",
+        "tech": "React"
+      },
       {
         "name": "Blasphemy",
         "lynk": "https://eloquent-meninsky-66f587.netlify.com/",
