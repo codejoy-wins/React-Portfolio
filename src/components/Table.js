@@ -28,7 +28,7 @@ export class Table extends Component {
     }
     const xxp = {
       "color":"lightsteelblue",
-      "fontSize": "4vw",
+      "fontSize": "5vw",
     }
     return (
       <div style={myStyle}>
