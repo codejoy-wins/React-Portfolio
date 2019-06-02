@@ -22,6 +22,10 @@
 #here {
   color:gold;
   font-size: 3vw;
+  border-radius: 1vw;
+  border-color: black;
+  background-color: black;
+  padding:1vw;
 }
 
 .App-link {
