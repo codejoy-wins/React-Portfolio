@@ -19,16 +19,16 @@ class App extends Component {
     }, 
     projects: [
       {
-        "name": "Twelve Articles",
-        "lynk": "https://clever-rosalind-14684b.netlify.com/",
-        "desc": "My LinkedIn Articles",
-        "tech": "React"
-      },
-      {
         "name": "Blasphemy",
         "lynk": "https://eloquent-meninsky-66f587.netlify.com/",
         "desc": "To cheer you up",
         "tech": "JS, HTML, CSS, React, Hooks, God"
+      },
+      {
+        "name": "Twelve Articles",
+        "lynk": "https://clever-rosalind-14684b.netlify.com/",
+        "desc": "My LinkedIn Articles",
+        "tech": "React"
       },
       {
         "name": "React Hooks",
@@ -106,13 +106,6 @@ class App extends Component {
         "desc": "React forms for practice",
         "tech": "React, HTML, CSS, JS, VS Code",
 
-      },
-      {
-        "name": "react tutorial",
-        "lynk": "https://goofy-snyder-724a97.netlify.com/",
-        "desc": "Traversy Media Youtube Tutorial",
-        "tech": "React, HTML, CSS, JS, VS Code",
-        
       },
       {
         "name": "game browser",
@@ -133,12 +126,6 @@ class App extends Component {
         "tech": "Django, Python, AWS, HTML, CSS",
       },
       {
-        "name": "Fakebook",
-        "lynk": "http://codejoywins.pythonanywhere.com/",
-        "desc": "Copywork of Mark Zuckerberg",
-        "tech": "HTML, CSS, Python, Django, Pythonanywhere"
-      },
-      {
         "name": "Old Portfolio",
         "lynk": "https://happy-mirzakhani-505c0a.netlify.com/",
         "desc": "Old portfolio",
@@ -149,12 +136,6 @@ class App extends Component {
         "lynk": "https://keen-pare-61d7ca.netlify.com/",
         "desc": "OOP battle game with sound",
         "tech": "JS, HTML, CSS, Netlify"
-      },
-      {
-        "name": "todo list tutorial",
-        "lynk": "https://hardcore-kowalevski-0d0795.netlify.com/",
-        "desc": "Youtube React tutorial todo list",
-        "tech": "React, JS, HTML, CSS, Netlify"
       },
       {
         "name": "DJ Alien",
@@ -171,19 +152,18 @@ class App extends Component {
     ],
     // https://tender-shannon-7c069f.netlify.com/
     // https://eloquent-meninsky-66f587.netlify.com/
-    // Drake song and it's alright (happy song)
     permaProjects: [
-      {
-        "name": "Twelve Articles",
-        "lynk": "https://clever-rosalind-14684b.netlify.com/",
-        "desc": "My LinkedIn Articles",
-        "tech": "React, God"
-      },
       {
         "name": "Blasphemy",
         "lynk": "https://eloquent-meninsky-66f587.netlify.com/",
         "desc": "To cheer you up",
         "tech": "JS, HTML, CSS, React, Hooks, God"
+      },
+      {
+        "name": "Twelve Articles",
+        "lynk": "https://clever-rosalind-14684b.netlify.com/",
+        "desc": "My LinkedIn Articles",
+        "tech": "React, God"
       },
       {
         "name": "React Hooks",
@@ -232,42 +212,30 @@ class App extends Component {
           "lynk": "https://kind-babbage-529f5c.netlify.com/",
           "desc": "React color manipulation",
           "tech": "React, HTML, CSS, JS, VS Code",
-
       },
       {
           "name": "react speed",
           "lynk": "https://admiring-allen-88af04.netlify.com/",
           "desc": "React speed manipulation",
           "tech": "React, HTML, CSS, JS, VS Code",
-
       },
       {
           "name": "react gallery",
           "lynk": "https://dazzling-keller-4338a6.netlify.com/?fooled",
           "desc": "React image gallery",
           "tech": "React, HTML, CSS, JS, VS Code",
-
       },
       {
         "name": "react table",
         "lynk": "https://eager-bhaskara-18e28d.netlify.com/",
         "desc": "React table for practice",
         "tech": "React, HTML, CSS, JS, VS Code",
-
       },
       {
         "name": "react forms",
         "lynk": "https://distracted-saha-afe3a3.netlify.com/",
         "desc": "React forms for practice",
         "tech": "React, HTML, CSS, JS, VS Code",
-
-      },
-      {
-        "name": "react tutorial",
-        "lynk": "https://goofy-snyder-724a97.netlify.com/",
-        "desc": "Traversy Media Youtube Tutorial",
-        "tech": "React, HTML, CSS, JS, VS Code",
-        
       },
       {
         "name": "game browser",
@@ -288,12 +256,6 @@ class App extends Component {
         "tech": "Django, Python, AWS, HTML, CSS",
       },
       {
-        "name": "Fakebook",
-        "lynk": "http://codejoywins.pythonanywhere.com/",
-        "desc": "Copywork of Mark Zuckerberg",
-        "tech": "HTML, CSS, Python, Django, Pythonanywhere"
-      },
-      {
         "name": "Old Portfolio",
         "lynk": "https://happy-mirzakhani-505c0a.netlify.com/",
         "desc": "Old portfolio",
@@ -304,12 +266,6 @@ class App extends Component {
         "lynk": "https://keen-pare-61d7ca.netlify.com/",
         "desc": "OOP battle game with sound",
         "tech": "JS, HTML, CSS, Netlify"
-      },
-      {
-        "name": "todo list tutorial",
-        "lynk": "https://hardcore-kowalevski-0d0795.netlify.com/",
-        "desc": "Youtube React tutorial todo list",
-        "tech": "React, JS, HTML, CSS, Netlify"
       },
       {
         "name": "DJ Alien",
