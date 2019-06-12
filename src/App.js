@@ -3,11 +3,7 @@ import Table from './components/Table';
 import Form from './components/Form';
 import Heading from './components/Heading';
 import './App.css';
-// https://wizardly-wright-170b65.netlify.com/
-// https://condescending-albattani-0a1334.netlify.com/
-// https://practical-saha-e8a1a8.netlify.com/
-// https://eloquent-meninsky-66f587.netlify.com/
-//#282c34
+
 class App extends Component {
   state = {
     display: {
