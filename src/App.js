@@ -15,16 +15,16 @@ class App extends Component {
     }, 
     projects: [
       {
-        "name": "chess",
-        "lynk": "https://happy-lamport-7d58dd.netlify.com/",
-        "desc": "Chess opening strategies",
-        "tech": "React"
-      },
-      {
         "name": "Blasphemy",
         "lynk": "https://eloquent-meninsky-66f587.netlify.com/",
         "desc": "To cheer you up",
         "tech": "JS, HTML, CSS, React, Hooks, God"
+      },
+      {
+        "name": "chess",
+        "lynk": "https://happy-lamport-7d58dd.netlify.com/",
+        "desc": "Chess opening strategies",
+        "tech": "React"
       },
       {
         "name": "Twelve Articles",
@@ -156,16 +156,16 @@ class App extends Component {
     // https://eloquent-meninsky-66f587.netlify.com/
     permaProjects: [
       {
-        "name": "chess",
-        "lynk": "https://happy-lamport-7d58dd.netlify.com/",
-        "desc": "Chess opening strategies",
-        "tech": "React"
-      },
-      {
         "name": "Blasphemy",
         "lynk": "https://eloquent-meninsky-66f587.netlify.com/",
         "desc": "To cheer you up",
         "tech": "JS, HTML, CSS, React, Hooks, God"
+      },
+      {
+        "name": "chess",
+        "lynk": "https://happy-lamport-7d58dd.netlify.com/",
+        "desc": "Chess opening strategies",
+        "tech": "React"
       },
       {
         "name": "Twelve Articles",
