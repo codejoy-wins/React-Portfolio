@@ -8,7 +8,7 @@ class App extends Component {
   state = {
     display: {
       "color": "white",
-      "background": "#ac304aaf",
+      "background": "blue",
       "margin": "0 auto",
       "padding": "1vw",
       "fontSize": "2.24vw",
