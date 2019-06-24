@@ -6,7 +6,7 @@ export class Heading extends Component {
     constructor(props){
         super(props);
         this.state = {
-            boogie:false,
+            boogie:true,
         }
     }
 
