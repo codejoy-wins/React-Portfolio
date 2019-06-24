@@ -18,7 +18,7 @@ class App extends Component {
         "name": "Blasphemy",
         "lynk": "https://eloquent-meninsky-66f587.netlify.com/",
         "desc": "To cheer you up",
-        "tech": "JS, HTML, CSS, React, Hooks, God"
+        "tech": "JS, HTML, CSS, React, Hooks"
       },
       {
         "name": "Art Portfolio",
@@ -171,7 +171,7 @@ class App extends Component {
         "name": "Blasphemy",
         "lynk": "https://eloquent-meninsky-66f587.netlify.com/",
         "desc": "To cheer you up",
-        "tech": "JS, HTML, CSS, React, Hooks, God"
+        "tech": "JS, HTML, CSS, React, Hooks"
       },
       {
         "name": "Art Portfolio",
