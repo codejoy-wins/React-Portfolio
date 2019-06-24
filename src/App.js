@@ -21,6 +21,12 @@ class App extends Component {
         "tech": "JS, HTML, CSS, React, Hooks, God"
       },
       {
+        "name": "Art Portfolio",
+        "lynk": "https://wendyjann.com/",
+        "desc": "For my mom",
+        "tech": "JS, HTML, CSS, React"
+      },
+      {
         "name": "Wisdom",
         "lynk": "https://gifted-curran-a64a6a.netlify.com/",
         "desc": "Messing around",
@@ -166,6 +172,12 @@ class App extends Component {
         "lynk": "https://eloquent-meninsky-66f587.netlify.com/",
         "desc": "To cheer you up",
         "tech": "JS, HTML, CSS, React, Hooks, God"
+      },
+      {
+        "name": "Art Portfolio",
+        "lynk": "https://wendyjann.com/",
+        "desc": "For my mom",
+        "tech": "JS, HTML, CSS, React"
       },
       {
         "name": "Wisdom",
