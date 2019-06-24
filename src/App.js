@@ -33,7 +33,7 @@ class App extends Component {
         "tech": "React bro"
       },
       {
-        "name": "chess",
+        "name": "Chess",
         "lynk": "https://happy-lamport-7d58dd.netlify.com/",
         "desc": "Chess opening strategies",
         "tech": "React"
@@ -186,7 +186,7 @@ class App extends Component {
         "tech": "React bro"
       },
       {
-        "name": "chess",
+        "name": "Chess",
         "lynk": "https://happy-lamport-7d58dd.netlify.com/",
         "desc": "Chess opening strategies",
         "tech": "React"
