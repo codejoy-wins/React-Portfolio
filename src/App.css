@@ -40,9 +40,9 @@
     transform: rotate(360deg);
   }
 }
-
+/* https://i1.sndcdn.com/avatars-000646981413-y7iob4-t500x500.jpg */
 #nest {
-  background-image: url("https://i1.sndcdn.com/avatars-000646981413-y7iob4-t500x500.jpg");
+  background-image: url("./components/mj8.jpg");
   background-repeat: no-repeat;
   padding: 10rem;
 }
