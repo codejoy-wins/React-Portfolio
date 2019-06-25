@@ -42,10 +42,8 @@
 }
 /* https://i1.sndcdn.com/avatars-000646981413-y7iob4-t500x500.jpg */
 #nest {
-  background-image: url("./components/mj6.jpg");
-  background-size: 100%;
+  background-image: url("https://i1.sndcdn.com/avatars-000646981413-y7iob4-t500x500.jpg");
   background-repeat: no-repeat;
-  padding: 10rem;
 }
 #spacer{
   color: rgba(19, 2, 2, 0.459);
