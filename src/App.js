@@ -36,7 +36,7 @@ class App extends Component {
         "name": "Wisdom",
         "lynk": "https://gifted-curran-a64a6a.netlify.com/",
         "desc": "Messing around",
-        "tech": "React bro"
+        "tech": "React"
       },
       {
         "name": "Chess",
@@ -195,7 +195,7 @@ class App extends Component {
         "name": "Wisdom",
         "lynk": "https://gifted-curran-a64a6a.netlify.com/",
         "desc": "Messing around",
-        "tech": "React bro"
+        "tech": "React"
       },
       {
         "name": "Chess",
