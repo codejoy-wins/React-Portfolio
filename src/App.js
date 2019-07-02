@@ -20,6 +20,13 @@ class App extends Component {
         "desc": "To cheer you up",
         "tech": "JS, HTML, CSS, React, Hooks"
       },
+      
+      {
+        "name": "Pretty Colors",
+        "lynk": "https://ecstatic-poitras-45b6fc.netlify.com/",
+        "desc": "Linear Gradients",
+        "tech": "HTML, CSS"
+      },
       {
         "name": "Browns Hype",
         "lynk": "https://flamboyant-hodgkin-c9a684.netlify.com/",
@@ -178,6 +185,12 @@ class App extends Component {
         "lynk": "https://eloquent-meninsky-66f587.netlify.com/",
         "desc": "To cheer you up",
         "tech": "JS, HTML, CSS, React, Hooks"
+      },
+      {
+        "name": "Pretty Colors",
+        "lynk": "https://ecstatic-poitras-45b6fc.netlify.com/",
+        "desc": "Linear Gradients",
+        "tech": "HTML, CSS"
       },
       {
         "name": "Browns Hype",
