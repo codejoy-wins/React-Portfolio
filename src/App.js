@@ -23,7 +23,7 @@ class App extends Component {
 
       {
         "name": "Money",
-        "lynk": "http://127.0.0.1:5500/index.html#mula",
+        "lynk": "https://serene-shaw-75ee22.netlify.com/",
         "desc": "Sidebar practice",
         "tech": "HTML, CSS"
       },
@@ -195,7 +195,7 @@ class App extends Component {
       },
       {
         "name": "Money",
-        "lynk": "http://127.0.0.1:5500/index.html#mula",
+        "lynk": "https://serene-shaw-75ee22.netlify.com/",
         "desc": "Sidebar practice",
         "tech": "HTML, CSS"
       },
