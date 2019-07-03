@@ -20,6 +20,13 @@ class App extends Component {
         "desc": "To cheer you up",
         "tech": "JS, HTML, CSS, React, Hooks"
       },
+
+      {
+        "name": "Money",
+        "lynk": "http://127.0.0.1:5500/index.html#mula",
+        "desc": "Sidebar practice",
+        "tech": "HTML, CSS"
+      },
       
       {
         "name": "Pretty Colors",
@@ -185,6 +192,12 @@ class App extends Component {
         "lynk": "https://eloquent-meninsky-66f587.netlify.com/",
         "desc": "To cheer you up",
         "tech": "JS, HTML, CSS, React, Hooks"
+      },
+      {
+        "name": "Money",
+        "lynk": "http://127.0.0.1:5500/index.html#mula",
+        "desc": "Sidebar practice",
+        "tech": "HTML, CSS"
       },
       {
         "name": "Pretty Colors",
