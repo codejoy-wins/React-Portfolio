@@ -20,7 +20,12 @@ class App extends Component {
         "desc": "To cheer you up",
         "tech": "JS, HTML, CSS, React, Hooks"
       },
-
+      {
+        "name": "Nav bar",
+        "lynk": "https://dreamy-tereshkova-45f1e4.netlify.com/",
+        "desc": "Practice",
+        "tech": "HTML, CSS",
+      },
       {
         "name": "Money",
         "lynk": "https://serene-shaw-75ee22.netlify.com/",
@@ -192,6 +197,12 @@ class App extends Component {
         "lynk": "https://eloquent-meninsky-66f587.netlify.com/",
         "desc": "To cheer you up",
         "tech": "JS, HTML, CSS, React, Hooks"
+      },
+      {
+        "name": "Nav bar",
+        "lynk": "https://dreamy-tereshkova-45f1e4.netlify.com/",
+        "desc": "Practice",
+        "tech": "HTML, CSS",
       },
       {
         "name": "Money",
