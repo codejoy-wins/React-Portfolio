@@ -508,7 +508,7 @@ appTracker = term =>{
           </div>
           <div style={kill} onClick={()=>this.exhaust()}>Stabilizer</div>
           <p>
-            <a href="https://docs.google.com/document/d/12fs0JcFhhyfADRLaaiCnoInt6S5JmwlO83J-NSE8OPM/edit?usp=sharing">View My Resume</a>
+            <a href="https://docs.google.com/document/d/1k-Y4oGjID1KSm4ffyJYmemv72RHer_cj28r7lfsyOgM/edit?usp=sharing">View My Resume</a>
           </p>
           <a
             className="App-link"
