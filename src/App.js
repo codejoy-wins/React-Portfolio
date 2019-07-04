@@ -21,6 +21,12 @@ class App extends Component {
         "tech": "JS, HTML, CSS, React, Hooks"
       },
       {
+        "name": "Goku",
+        "lynk": "https://eloquent-einstein-845fe7.netlify.com/",
+        "desc": "OOP battle",
+        "tech": "JS, HTML, CSS"
+      },
+      {
         "name": "Nav bar",
         "lynk": "https://dreamy-tereshkova-45f1e4.netlify.com/",
         "desc": "Practice",
@@ -197,6 +203,12 @@ class App extends Component {
         "lynk": "https://eloquent-meninsky-66f587.netlify.com/",
         "desc": "To cheer you up",
         "tech": "JS, HTML, CSS, React, Hooks"
+      },
+      {
+        "name": "Goku",
+        "lynk": "https://eloquent-einstein-845fe7.netlify.com/",
+        "desc": "OOP battle",
+        "tech": "JS, HTML, CSS"
       },
       {
         "name": "Nav bar",
