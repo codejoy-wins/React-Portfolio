@@ -21,6 +21,12 @@ class App extends Component {
         "tech": "JS, HTML, CSS, React, Hooks"
       },
       {
+        "name": "Magnus Carlsen",
+        "lynk": "https://goofy-bhaskara-670258.netlify.com/",
+        "desc": "Chess News",
+        "tech": "HTML, CSS"
+      },
+      {
         "name": "Lakers",
         "lynk": "https://peaceful-poincare-48e2af.netlify.com/",
         "desc": "Big 3",
@@ -203,12 +209,20 @@ class App extends Component {
     ],
     // https://tender-shannon-7c069f.netlify.com/
     // https://eloquent-meninsky-66f587.netlify.com/
+    // 
+    // https://goofy-bhaskara-670258.netlify.com/
     permaProjects: [
       {
         "name": "Blasphemy",
         "lynk": "https://eloquent-meninsky-66f587.netlify.com/",
         "desc": "To cheer you up",
         "tech": "JS, HTML, CSS, React, Hooks"
+      },
+      {
+        "name": "Magnus Carlsen",
+        "lynk": "https://goofy-bhaskara-670258.netlify.com/",
+        "desc": "Chess News",
+        "tech": "HTML, CSS"
       },
       {
         "name": "Lakers",
