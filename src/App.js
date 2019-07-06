@@ -21,6 +21,12 @@ class App extends Component {
         "tech": "JS, HTML, CSS, React, Hooks"
       },
       {
+        "name": "Blue",
+        "lynk": "https://youthful-jackson-b5eb02.netlify.com/",
+        "desc": "Gallery",
+        "tech": "HTML, CSS, JS"
+      },
+      {
         "name": "Magnus Carlsen",
         "lynk": "https://goofy-bhaskara-670258.netlify.com/",
         "desc": "Chess News",
@@ -217,6 +223,12 @@ class App extends Component {
         "lynk": "https://eloquent-meninsky-66f587.netlify.com/",
         "desc": "To cheer you up",
         "tech": "JS, HTML, CSS, React, Hooks"
+      },
+      {
+        "name": "Blue",
+        "lynk": "https://youthful-jackson-b5eb02.netlify.com/",
+        "desc": "Gallery",
+        "tech": "HTML, CSS, JS"
       },
       {
         "name": "Magnus Carlsen",
