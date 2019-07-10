@@ -33,6 +33,12 @@ class App extends Component {
         "tech": "HTML, CSS"
       },
       {
+        "name": "Form",
+        "lynk": "https://heuristic-mahavira-4b7404.netlify.com/",
+        "desc": "Vanilla JS",
+        "tech": "HTML, CSS, JS"
+      },
+      {
         "name": "Lakers",
         "lynk": "https://peaceful-poincare-48e2af.netlify.com/",
         "desc": "Big 3",
@@ -235,6 +241,12 @@ class App extends Component {
         "lynk": "https://goofy-bhaskara-670258.netlify.com/",
         "desc": "Chess News",
         "tech": "HTML, CSS"
+      },
+      {
+        "name": "Form",
+        "lynk": "https://heuristic-mahavira-4b7404.netlify.com/",
+        "desc": "Vanilla JS",
+        "tech": "HTML, CSS, JS"
       },
       {
         "name": "Lakers",
