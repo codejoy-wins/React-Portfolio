@@ -33,6 +33,12 @@ class App extends Component {
         "tech": "HTML, CSS"
       },
       {
+        "name": "Elam Ahpla",
+        "lynk": "https://objective-goldstine-dd463f.netlify.com/",
+        "desc": "Date and Time Teller",
+        "tech": "HTML, CSS, JS, React"
+      },
+      {
         "name": "Form",
         "lynk": "https://heuristic-mahavira-4b7404.netlify.com/",
         "desc": "Vanilla JS",
@@ -241,6 +247,12 @@ class App extends Component {
         "lynk": "https://goofy-bhaskara-670258.netlify.com/",
         "desc": "Chess News",
         "tech": "HTML, CSS"
+      },
+      {
+        "name": "Elam Ahpla",
+        "lynk": "https://objective-goldstine-dd463f.netlify.com/",
+        "desc": "Date and Time Teller",
+        "tech": "HTML, CSS, JS, React"
       },
       {
         "name": "Form",
