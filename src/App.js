@@ -21,6 +21,12 @@ class App extends Component {
         "tech": "JS, HTML, CSS, React, Hooks"
       },
       {
+        "name": "React Rap",
+        "lynk": "https://elastic-torvalds-f1a444.netlify.com/",
+        "desc": "Made from scratch",
+        "tech": "JS, HTML, CSS, React"
+      },
+      {
         "name": "Blue",
         "lynk": "https://youthful-jackson-b5eb02.netlify.com/",
         "desc": "Gallery",
@@ -235,6 +241,12 @@ class App extends Component {
         "lynk": "https://eloquent-meninsky-66f587.netlify.com/",
         "desc": "To cheer you up",
         "tech": "JS, HTML, CSS, React, Hooks"
+      },
+      {
+        "name": "React Rap",
+        "lynk": "https://elastic-torvalds-f1a444.netlify.com/",
+        "desc": "Made from scratch",
+        "tech": "JS, HTML, CSS, React"
       },
       {
         "name": "Blue",
