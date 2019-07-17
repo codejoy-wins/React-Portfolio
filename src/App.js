@@ -21,6 +21,12 @@ class App extends Component {
         "tech": "JS, HTML, CSS, React, Hooks"
       },
       {
+        "name": "Power Rankings",
+        "lynk": "https://distracted-rosalind-e88562.netlify.com/",
+        "desc": "For my fantasy league",
+        "tech": "JS, HTML, CSS, React"
+      },
+      {
         "name": "React Rap",
         "lynk": "https://elastic-torvalds-f1a444.netlify.com/",
         "desc": "Made from scratch",
@@ -241,6 +247,12 @@ class App extends Component {
         "lynk": "https://eloquent-meninsky-66f587.netlify.com/",
         "desc": "To cheer you up",
         "tech": "JS, HTML, CSS, React, Hooks"
+      },
+      {
+        "name": "Power Rankings",
+        "lynk": "https://distracted-rosalind-e88562.netlify.com/",
+        "desc": "For my fantasy league",
+        "tech": "JS, HTML, CSS, React"
       },
       {
         "name": "React Rap",
