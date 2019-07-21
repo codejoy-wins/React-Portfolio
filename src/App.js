@@ -21,6 +21,12 @@ class App extends Component {
         "tech": "JS, HTML, CSS, React, Hooks"
       },
       {
+        "name": "Todo",
+        "lynk": "https://fervent-poincare-7d1c70.netlify.com/",
+        "desc": "From Scratch!",
+        "tech": "JS, HTML, CSS, React"
+      },
+      {
         "name": "Power Rankings",
         "lynk": "https://distracted-rosalind-e88562.netlify.com/",
         "desc": "For my fantasy league",
@@ -241,12 +247,20 @@ class App extends Component {
     // https://eloquent-meninsky-66f587.netlify.com/
     // 
     // https://goofy-bhaskara-670258.netlify.com/
+
+    // https://fervent-poincare-7d1c70.netlify.com/
     permaProjects: [
       {
         "name": "Blasphemy",
         "lynk": "https://eloquent-meninsky-66f587.netlify.com/",
         "desc": "To cheer you up",
         "tech": "JS, HTML, CSS, React, Hooks"
+      },
+      {
+        "name": "Todo",
+        "lynk": "https://fervent-poincare-7d1c70.netlify.com/",
+        "desc": "From Scratch!",
+        "tech": "JS, HTML, CSS, React"
       },
       {
         "name": "Power Rankings",
