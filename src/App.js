@@ -20,6 +20,13 @@ class App extends Component {
         "desc": "To cheer you up",
         "tech": "JS, HTML, CSS, React, Hooks"
       },
+      // https://focused-hermann-243062.netlify.com/
+      {
+        "name": "Todo 2",
+        "lynk": "https://focused-hermann-243062.netlify.com/",
+        "desc": "From Scratch Again!",
+        "tech": "JS, HTML, CSS, React"
+      },
       {
         "name": "Todo",
         "lynk": "https://fervent-poincare-7d1c70.netlify.com/",
@@ -255,6 +262,12 @@ class App extends Component {
         "lynk": "https://eloquent-meninsky-66f587.netlify.com/",
         "desc": "To cheer you up",
         "tech": "JS, HTML, CSS, React, Hooks"
+      },
+      {
+        "name": "Todo 2",
+        "lynk": "https://focused-hermann-243062.netlify.com/",
+        "desc": "From Scratch Again!",
+        "tech": "JS, HTML, CSS, React"
       },
       {
         "name": "Todo",
