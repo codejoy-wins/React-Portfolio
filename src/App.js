@@ -15,6 +15,12 @@ class App extends Component {
     }, 
     projects: [
       {
+        name: "Browns Todo App",
+        "lynk": "https://vigorous-mccarthy-e1b2e5.netlify.com/",
+        "desc": "Built from scratch in 1 hour",
+        "tech": "React"
+      },
+      {
         "name": "Blasphemy",
         "lynk": "https://eloquent-meninsky-66f587.netlify.com/",
         "desc": "To cheer you up",
@@ -257,6 +263,12 @@ class App extends Component {
 
     // https://fervent-poincare-7d1c70.netlify.com/
     permaProjects: [
+      {
+        name: "Browns Todo App",
+        "lynk": "https://vigorous-mccarthy-e1b2e5.netlify.com/",
+        "desc": "Built from scratch in 1 hour",
+        "tech": "React"
+      },
       {
         "name": "Blasphemy",
         "lynk": "https://eloquent-meninsky-66f587.netlify.com/",
