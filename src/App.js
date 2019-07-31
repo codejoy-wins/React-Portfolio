@@ -15,6 +15,12 @@ class App extends Component {
     }, 
     projects: [
       {
+        name: "React Formal",
+        "lynk": "https://quirky-lovelace-fb3373.netlify.com/",
+        "desc": "Built from scratch in under 1 hour",
+        "tech": "React"
+      },
+      {
         name: "Browns Todo App 2",
         "lynk": "https://stupefied-morse-fa8726.netlify.com/",
         "desc": "Built from scratch in under 1 hour",
@@ -268,7 +274,16 @@ class App extends Component {
     // https://goofy-bhaskara-670258.netlify.com/
 
     // https://fervent-poincare-7d1c70.netlify.com/
+
+    
+
     permaProjects: [
+      {
+        name: "React Formal",
+        "lynk": "https://quirky-lovelace-fb3373.netlify.com/",
+        "desc": "Built from scratch in under 1 hour",
+        "tech": "React"
+      },
       {
         name: "Browns Todo App 2",
         "lynk": "https://stupefied-morse-fa8726.netlify.com/",
