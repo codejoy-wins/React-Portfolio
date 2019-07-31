@@ -16,7 +16,7 @@ class App extends Component {
     projects: [
       {
         name: "From Memory",
-        "lynk": "https://brave-goldwasser-378b3c.netlify.com/",
+        "lynk": "https://inspiring-mayer-16a537.netlify.com/",
         "desc": "Built from memory",
         "tech": "React"
       },
@@ -286,7 +286,7 @@ class App extends Component {
     permaProjects: [
       {
         name: "From Memory",
-        "lynk": "https://brave-goldwasser-378b3c.netlify.com/",
+        "lynk": "https://inspiring-mayer-16a537.netlify.com/",
         "desc": "Built from memory",
         "tech": "React"
       },
