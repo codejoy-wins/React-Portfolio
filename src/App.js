@@ -15,6 +15,12 @@ class App extends Component {
     }, 
     projects: [
       {
+        name: "From Memory",
+        "lynk": "https://brave-goldwasser-378b3c.netlify.com/",
+        "desc": "Built from memory",
+        "tech": "React"
+      },
+      {
         name: "React Formal",
         "lynk": "https://quirky-lovelace-fb3373.netlify.com/",
         "desc": "Built from scratch in under 1 hour",
@@ -278,6 +284,12 @@ class App extends Component {
     
 
     permaProjects: [
+      {
+        name: "From Memory",
+        "lynk": "https://brave-goldwasser-378b3c.netlify.com/",
+        "desc": "Built from memory",
+        "tech": "React"
+      },
       {
         name: "React Formal",
         "lynk": "https://quirky-lovelace-fb3373.netlify.com/",
