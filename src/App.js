@@ -24,6 +24,30 @@ class App extends Component {
         "tech": "React"
       },
       {
+        "name": "Westlake Fantasy Football",
+        "lynk": "http://18.222.207.191/",
+        "desc": "Fullstack Development with Python/Django/AWS",
+        "tech": "Django, Python, AWS, HTML, CSS",
+      },
+      {
+        "name": "game browser",
+        "lynk": "https://cocky-leavitt-f7e993.netlify.com/",
+        "desc": "All my Unity Games playable in one place",
+        "tech": "HTML, JS, CSS, Unity, C#, Blender",
+      },
+      {
+        "name": "main portfolio",
+        "lynk": "https://codejoy-wins.github.io/",
+        "desc": "Edited a template for mobile-first responsive design",
+        "tech": "Bootstrap Greyscale Template, HTML, CSS, JS",
+      },
+      {
+        "name": "Old Portfolio",
+        "lynk": "https://happy-mirzakhani-505c0a.netlify.com/",
+        "desc": "Old portfolio",
+        "tech": "JS, HTML, CSS, Github Pages",
+      },
+      {
         name: "From Memory",
         "lynk": "https://inspiring-mayer-16a537.netlify.com/",
         "desc": "Built from memory",
@@ -298,6 +322,30 @@ class App extends Component {
         "lynk": "https://silly-beaver-54dddd.netlify.com/",
         "desc": "Make your own meme",
         "tech": "React"
+      },
+      {
+        "name": "Westlake Fantasy Football",
+        "lynk": "http://18.222.207.191/",
+        "desc": "Fullstack Development with Python/Django/AWS",
+        "tech": "Django, Python, AWS, HTML, CSS",
+      },
+      {
+        "name": "game browser",
+        "lynk": "https://cocky-leavitt-f7e993.netlify.com/",
+        "desc": "All my Unity Games playable in one place",
+        "tech": "HTML, JS, CSS, Unity, C#, Blender",
+      },
+      {
+        "name": "main portfolio",
+        "lynk": "https://codejoy-wins.github.io/",
+        "desc": "Edited a template for mobile-first responsive design",
+        "tech": "Bootstrap Greyscale Template, HTML, CSS, JS",
+      },
+      {
+        "name": "Old Portfolio",
+        "lynk": "https://happy-mirzakhani-505c0a.netlify.com/",
+        "desc": "Old portfolio",
+        "tech": "JS, HTML, CSS, Github Pages",
       },
       {
         name: "From Memory",
