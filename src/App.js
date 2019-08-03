@@ -4,6 +4,8 @@ import Form from './components/Form';
 import Heading from './components/Heading';
 import './App.css';
 
+// I add to this code because it is a useful directory
+
 class App extends Component {
   state = {
     display: {
@@ -16,9 +18,9 @@ class App extends Component {
     
     projects: [
       {
-        name: "Meme Generator",
+        name: "Meme Creator",
         "lynk": "https://silly-beaver-54dddd.netlify.com/",
-        "desc": "Only one picture",
+        "desc": "Make your own meme",
         "tech": "React"
       },
       {
@@ -292,9 +294,9 @@ class App extends Component {
 
     permaProjects: [
       {
-        name: "Meme Generator",
+        name: "Meme Creator",
         "lynk": "https://silly-beaver-54dddd.netlify.com/",
-        "desc": "Only one picture",
+        "desc": "Make your own meme",
         "tech": "React"
       },
       {
