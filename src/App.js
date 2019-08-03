@@ -48,6 +48,18 @@ class App extends Component {
         "tech": "JS, HTML, CSS, Github Pages",
       },
       {
+        "name": "Twelve Articles",
+        "lynk": "https://clever-rosalind-14684b.netlify.com/",
+        "desc": "My LinkedIn Articles",
+        "tech": "React, God"
+      },
+      {
+        "name": "Blasphemy",
+        "lynk": "https://eloquent-meninsky-66f587.netlify.com/",
+        "desc": "To cheer you up",
+        "tech": "JS, HTML, CSS, React, Hooks"
+      },
+      {
         name: "From Memory",
         "lynk": "https://inspiring-mayer-16a537.netlify.com/",
         "desc": "Built from memory",
@@ -346,6 +358,18 @@ class App extends Component {
         "lynk": "https://happy-mirzakhani-505c0a.netlify.com/",
         "desc": "Old portfolio",
         "tech": "JS, HTML, CSS, Github Pages",
+      },
+      {
+        "name": "Twelve Articles",
+        "lynk": "https://clever-rosalind-14684b.netlify.com/",
+        "desc": "My LinkedIn Articles",
+        "tech": "React, God"
+      },
+      {
+        "name": "Blasphemy",
+        "lynk": "https://eloquent-meninsky-66f587.netlify.com/",
+        "desc": "To cheer you up",
+        "tech": "JS, HTML, CSS, React, Hooks"
       },
       {
         name: "From Memory",
