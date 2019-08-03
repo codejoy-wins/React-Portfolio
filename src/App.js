@@ -13,7 +13,14 @@ class App extends Component {
       "padding": "1vw",
       "fontSize": "2.24vw",
     }, 
+    
     projects: [
+      {
+        name: "Meme Generator",
+        "lynk": "https://silly-beaver-54dddd.netlify.com/",
+        "desc": "Only one picture",
+        "tech": "React"
+      },
       {
         name: "From Memory",
         "lynk": "https://inspiring-mayer-16a537.netlify.com/",
@@ -284,6 +291,12 @@ class App extends Component {
     
 
     permaProjects: [
+      {
+        name: "Meme Generator",
+        "lynk": "https://silly-beaver-54dddd.netlify.com/",
+        "desc": "Only one picture",
+        "tech": "React"
+      },
       {
         name: "From Memory",
         "lynk": "https://inspiring-mayer-16a537.netlify.com/",
