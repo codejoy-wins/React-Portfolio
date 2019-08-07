@@ -18,6 +18,12 @@ class App extends Component {
     
     projects: [
       {
+        name: "Form Practice",
+        "lynk": "https://pensive-mayer-86ad04.netlify.com/",
+        "desc": "React practice",
+        "tech": "React"
+      },
+      {
         name: "Meme Creator",
         "lynk": "https://silly-beaver-54dddd.netlify.com/",
         "desc": "Make your own meme",
@@ -329,6 +335,12 @@ class App extends Component {
     
 
     permaProjects: [
+      {
+        name: "Form Practice",
+        "lynk": "https://pensive-mayer-86ad04.netlify.com/",
+        "desc": "React practice",
+        "tech": "React"
+      },
       {
         name: "Meme Creator",
         "lynk": "https://silly-beaver-54dddd.netlify.com/",
