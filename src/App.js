@@ -18,6 +18,12 @@ class App extends Component {
     
     projects: [
       {
+        name: "Tutoring Business",
+        "lynk": "https://pedantic-curie-d6a10d.netlify.com/",
+        "desc": "Math and Chess",
+        "tech": "React"
+      },
+      {
         name: "Form Practice",
         "lynk": "https://pensive-mayer-86ad04.netlify.com/",
         "desc": "React practice",
@@ -332,9 +338,14 @@ class App extends Component {
 
     // https://fervent-poincare-7d1c70.netlify.com/
 
-    
 
     permaProjects: [
+      {
+        name: "Tutoring Business",
+        "lynk": "https://pedantic-curie-d6a10d.netlify.com/",
+        "desc": "Math and Chess",
+        "tech": "React"
+      },
       {
         name: "Form Practice",
         "lynk": "https://pensive-mayer-86ad04.netlify.com/",
