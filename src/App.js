@@ -18,6 +18,18 @@ class App extends Component {
     
     projects: [
       {
+        name: "Meme Creator",
+        "lynk": "https://silly-beaver-54dddd.netlify.com/",
+        "desc": "Make your own meme",
+        "tech": "React"
+      },
+      {
+        name: "Browns",
+        "lynk": "https://naughty-saha-500c27.netlify.com/",
+        "desc": "Season Predictions",
+        "tech": "React"
+      },
+      {
         name: "Tutoring Business",
         "lynk": "https://pedantic-curie-d6a10d.netlify.com/",
         "desc": "Math and Chess",
@@ -27,12 +39,6 @@ class App extends Component {
         name: "Form Practice",
         "lynk": "https://pensive-mayer-86ad04.netlify.com/",
         "desc": "React practice",
-        "tech": "React"
-      },
-      {
-        name: "Meme Creator",
-        "lynk": "https://silly-beaver-54dddd.netlify.com/",
-        "desc": "Make your own meme",
         "tech": "React"
       },
       {
@@ -341,6 +347,18 @@ class App extends Component {
 
     permaProjects: [
       {
+        name: "Meme Creator",
+        "lynk": "https://silly-beaver-54dddd.netlify.com/",
+        "desc": "Make your own meme",
+        "tech": "React"
+      },
+      {
+        name: "Browns",
+        "lynk": "https://naughty-saha-500c27.netlify.com/",
+        "desc": "Season Predictions",
+        "tech": "React"
+      },
+      {
         name: "Tutoring Business",
         "lynk": "https://pedantic-curie-d6a10d.netlify.com/",
         "desc": "Math and Chess",
@@ -350,12 +368,6 @@ class App extends Component {
         name: "Form Practice",
         "lynk": "https://pensive-mayer-86ad04.netlify.com/",
         "desc": "React practice",
-        "tech": "React"
-      },
-      {
-        name: "Meme Creator",
-        "lynk": "https://silly-beaver-54dddd.netlify.com/",
-        "desc": "Make your own meme",
         "tech": "React"
       },
       {
