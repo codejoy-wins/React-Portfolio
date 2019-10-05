@@ -24,6 +24,12 @@ class App extends Component {
         "tech": "React"
       },
       {
+        name: "Joker Review",
+        "lynk": "https://clever-pasteur-d77dd1.netlify.com/",
+        "desc": "Joker Movie Review",
+        "tech": "HTML CSS"
+      },
+      {
         name: "Browns",
         "lynk": "https://naughty-saha-500c27.netlify.com/",
         "desc": "Season Predictions",
@@ -351,6 +357,12 @@ class App extends Component {
         "lynk": "https://silly-beaver-54dddd.netlify.com/",
         "desc": "Make your own meme",
         "tech": "React"
+      },
+      {
+        name: "Joker Review",
+        "lynk": "https://clever-pasteur-d77dd1.netlify.com/",
+        "desc": "Joker Movie Review",
+        "tech": "HTML CSS"
       },
       {
         name: "Browns",
